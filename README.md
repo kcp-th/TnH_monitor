@@ -13,10 +13,10 @@ Temperature and Humidity monitor
 
  * This is the first prototype: single microcontroller in stand alone environment
  * HW  
-  Microcontroller :          Arduino Nano (compatible) 
-  Temp and Humidity sensor : DHT22 (AM2302)
-  Output :                   2 channels relay 220V 10A 
-  User interface:            16x2 LCD with 3 button switch
+ - Microcontroller :          Arduino Nano (compatible) 
+ - Temp and Humidity sensor : DHT22 (AM2302)
+ - Output :                   2 channels relay 220V 10A 
+ - User interface:            16x2 LCD with 3 button switch
  
 แนวความคิดเริ่มต้นจากอาจารย์ธีรเวทย์ จากมหาวิทยาลัยศรีนครินทรวิโรฒ ที่จะนำไมโครคอนโทรลเลอร์มาใช้ในการตรวจวัดอุณหภูมิและความชื้นจากน้นทำการควบคุมอุปกรณ์ทำความเย็น (evaporator )เพื่อลดอุณหภูมิและเครื่องสร้างไอน้ำเพื่อเพิ่มความชื้นในระดับที่เหมาะสมให้กับโรงเพาะเห็ด
 แนวความคิดนี้สามารถนำไปใช้กับพืชชนิดอื่นๆได้โดยการเพิ่มอุปกรณ์ตรวจวัดและอุปกรณ์ควบคุมเช่น
