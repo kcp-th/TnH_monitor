@@ -1,5 +1,5 @@
-C++ and header files for Arduino schema
-Add all files to schema and compile
+C++ and header files for Arduino sketch
+Add all files to sketch and compile
 
 climcond_sa.ino   Main program
 buttonInput       routines to read push button, do SW debounce, check state, etc
