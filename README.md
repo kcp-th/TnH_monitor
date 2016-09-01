@@ -13,7 +13,7 @@ Temperature and Humidity monitor
 
  * This is the first prototype: single microcontroller in stand alone environment
  * HW  
-  Microcontroller :          Arduino Nano (compatible)
+  Microcontroller :          Arduino Nano (compatible) 
   Temp and Humidity sensor : DHT22 (AM2302)
   Output :                   2 channels relay 220V 10A 
   User interface:            16x2 LCD with 3 button switch
