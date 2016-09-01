@@ -1,2 +1,8 @@
 C++ and header files for Arduino schema
 Add all files to schema and compile
+
+climcond_sa.ino   Main program
+buttonInput       routines to read push button, do SW debounce, check state, etc
+ioControl         turn relay on and off
+measurement       collect and calculate statistics (min, average, max temperature and humidity)
+parameter         save/restore parameters (temp&humd threshold, sampling interval) in EEPROM
