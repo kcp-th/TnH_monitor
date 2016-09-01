@@ -12,7 +12,7 @@ Temperature and Humidity monitor
    - measure ambient light and turn on/off eletrical light or shade in green house
 
  * This is the first prototype: single microcontroller in stand alone environment
- * HW  
+ Hardware  
  - Microcontroller :          Arduino Nano (compatible) 
  - Temp and Humidity sensor : DHT22 (AM2302)
  - Output :                   2 channels relay 220V 10A 
